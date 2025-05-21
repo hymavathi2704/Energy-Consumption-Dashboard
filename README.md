@@ -1,6 +1,3 @@
-# Checkout and Interact with my Dashboard On:
-https://www.novypro.com/project/energy-consumption
-
 # Energy-Consumption-Dashboard
 Steps Involved In the Project :-
 
