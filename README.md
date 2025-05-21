@@ -1,4 +1,7 @@
 # Energy-Consumption-Dashboard
+![Energy Consumption](https://github.com/user-attachments/assets/7f4a7635-2553-481a-b389-452a24659c88)
+
+
 Steps Involved In the Project :-
 
 # Data Collection and Preprocessing: 
